@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <header >
             <span className="GW">Gameweek</span>
-            <input type="text" className="gwNumber" />
+            <input type="text" className="gwNumber" placeholder = "0"/>
             <span className="pts">PTS</span>
         </header>
     );
