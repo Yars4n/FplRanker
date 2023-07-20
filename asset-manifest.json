@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FplRanker/static/css/main.b914de08.css",
+    "main.js": "/FplRanker/static/js/main.d6877190.js",
+    "static/media/Poppins-Regular.ttf": "/FplRanker/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/FplRanker/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "index.html": "/FplRanker/index.html",
+    "main.b914de08.css.map": "/FplRanker/static/css/main.b914de08.css.map",
+    "main.d6877190.js.map": "/FplRanker/static/js/main.d6877190.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b914de08.css",
+    "static/js/main.d6877190.js"
+  ]
+}
